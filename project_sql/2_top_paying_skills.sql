@@ -9,8 +9,7 @@ WITH top_paying_jobs AS (
     WHERE job_title_short = 'Data Analyst' AND
         job_location = 'Anywhere' AND
         salary_year_avg IS NOT NULL
-    ORDER BY salary_year_avg DESC
-    LIMIT 10 )
+    ORDER BY salary_year_avg DESC)
 SELECT top_paying_jobs.*,
     skills_dim.skills
 FROM top_paying_jobs
