@@ -25,6 +25,7 @@ Learning SQL by following Luke Barousse's YouTube course:
 
 # Analysis
 ### 1. Top paying Data Analyst jobs
+SQL query I used:
 
 ```
 SELECT job_id,
@@ -43,6 +44,9 @@ WHERE job_title_short = 'Data Analyst' AND
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
+
+Top-Paying Chart:
+[1_top_paying_chart.png](assets/1_top_paying_chart.png)
 
 # What I Learned
 
