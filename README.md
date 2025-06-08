@@ -46,7 +46,7 @@ LIMIT 10;
 ```
 
 Top-Paying Chart:
-[1_top_paying_chart.png](assets/1_top_paying_chart.png)
+![1_top_paying_chart.png](assets/1_top_paying_chart.png)
 
 # What I Learned
 
