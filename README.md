@@ -48,6 +48,9 @@ LIMIT 10;
 Top-Paying Chart:
 ![1_top_paying_chart.png](assets/1_top_paying_chart.png)
 
+Top-Paying Table:
+![alt text](image-2.png)
+
 # What I Learned
 
 # Conclusions
