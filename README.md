@@ -50,17 +50,18 @@ Top-Paying Chart:
 
 Top-Paying Table:
 ```
-"job_id","company_name","job_title_short","job_location","job_schedule_type","salary_year_avg","job_posted_date"
-226942,"Mantys","Data Analyst","Anywhere","Full-time","650000.0","2023-02-20"
-547382,"Meta","Data Analyst","Anywhere","Full-time","336500.0","2023-08-23"
-552322,"AT&T","Data Analyst","Anywhere","Full-time","255829.5","2023-06-18"
-99305,"Pinterest Job Advertisements","Data Analyst","Anywhere","Full-time","232423.0","2023-12-05"
-1021647,"Uclahealthcareers","Data Analyst","Anywhere","Full-time","217000.0","2023-01-17"
-168310,"SmartAsset","Data Analyst","Anywhere","Full-time","205000.0","2023-08-09"
-731368,"Inclusively","Data Analyst","Anywhere","Full-time","189309.0","2023-12-07"
-310660,"Motional","Data Analyst","Anywhere","Full-time","189000.0","2023-01-05"
-1749593,"SmartAsset","Data Analyst","Anywhere","Full-time","186000.0","2023-07-11"
-387860,"Get It Recruit - Information Technology","Data Analyst","Anywhere","Full-time","184000.0","2023-06-09"
+| Job ID  | Company Name | Job Title   | Location | Schedule  | Salary ($)  | Posted Date |
+|-------- |------------ |------------ |----------|---------- |------------ |------------ |
+| 226942  | Mantys     | Data Analyst | Anywhere | Full-time | 650,000     | 2023-02-20  |
+| 547382  | Meta       | Data Analyst | Anywhere | Full-time | 336,500     | 2023-08-23  |
+| 552322  | AT&T       | Data Analyst | Anywhere | Full-time | 255,829.5   | 2023-06-18  |
+| 99305   | Pinterest  | Data Analyst | Anywhere | Full-time | 232,423     | 2023-12-05  |
+| 1021647 | UCLA Health | Data Analyst | Anywhere | Full-time | 217,000     | 2023-01-17  |
+| 168310  | SmartAsset | Data Analyst | Anywhere | Full-time | 205,000     | 2023-08-09  |
+| 731368  | Inclusively | Data Analyst | Anywhere | Full-time | 189,309     | 2023-12-07  |
+| 310660  | Motional   | Data Analyst | Anywhere | Full-time | 189,000     | 2023-01-05  |
+| 1749593 | SmartAsset | Data Analyst | Anywhere | Full-time | 186,000     | 2023-07-11  |
+| 387860  | Get It Recruit | Data Analyst | Anywhere | Full-time | 184,000     | 2023-06-09  |
 ```
 
 
