@@ -66,6 +66,9 @@ Top-Paying Table:
 
 
 # What I Learned
+I learned a lot about SQL, VS Code, and GitHub. Some of the more advanced things I learned
+about were Joins, Subqueries, and CTEs.
 
 # Conclusions
+I am very thankful to Luke for this very informative course.
 
