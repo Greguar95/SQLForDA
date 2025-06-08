@@ -24,8 +24,8 @@ Learning SQL by following Luke Barousse's YouTube course:
 - **Git, Github.com, and GitHub Desktop**
 
 # Analysis
-### 1. Top paying Data Analyst jobs
-## SQL query I used:
+## 1. Top paying Data Analyst jobs
+### SQL query I used:
 
 ```
 SELECT job_id,
@@ -45,10 +45,10 @@ ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
 
-## Top-Paying Chart:
+### Top-Paying Chart:
 ![1_top_paying_chart.png](assets/1_top_paying_chart.png)
 
-## Top-Paying Table:
+### Top-Paying Table:
 ```
 | Job ID  | Company Name | Job Title   | Location | Schedule  | Salary ($)  | Posted Date |
 |-------- |------------ |------------ |----------|---------- |------------ |------------ |
