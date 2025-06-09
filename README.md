@@ -70,5 +70,5 @@ I learned a lot about SQL, VS Code, and GitHub. Some of the more advanced things
 about were Joins, Subqueries, CTEs, and adding Markdown Tables.
 
 # Conclusions
-I am very thankful to Luke for this very informative course.
+I am thankful to Luke for this very informative course.
 
